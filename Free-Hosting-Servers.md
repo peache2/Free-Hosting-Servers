@@ -9,12 +9,10 @@
 
 
 
-| Encabezado 1 | Encabezado 2 | Encabezado 3 |
-|--------------|--------------|--------------|
-| Dato 1       | Dato 2       | Dato 3       |
-| Dato 4       | Dato 5       | Dato 6       |
-
- Encabezado 1 | Encabezado 2 | 
-|--------------|--------------|
-| Dato 1       | Dato 2       | 
-| Dato 4       | Dato 5       |
+| Proveïdor      | Espai d'emmagatzematge | Ample de banda | Dominis i Subdominis | Certificat SSL | Publicitat | Altres Característiques        |
+|----------------|------------------------|----------------|-----------------------|----------------|------------|--------------------------------|
+| Hubspot        | 500 MB                 | 5 GB          | Subdomini             | Sí             | Sí         | Suport per a WordPress         |
+| infomaniak     | 1 GB                   | 10 GB         | Domini personalitzat  | No             | No         | Base de dades MySQL            |
+| Hostinger      | ...                    | ...           | ...                   | ...            | ...        | ...                            |
+| Award space    | ...                    | ...           | ...                   | ...            | ...        | ...                            |
+| Byet Internet Services*     | ...                    | ...           | ...                   | ...            | ...        | ...                            |
