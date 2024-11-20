@@ -35,4 +35,4 @@ Despues de esto simplemente podemos almacenar los archivos de manera sencilla y 
 
 ## Byet Internet Services
 Es un servicio que nos permite almacenar datos de una manera sencilla y rapida en la nube para que nuestros archivos esten seguros siempre en la pagina web
-![](inicioa.png)
+![](fh.png)
