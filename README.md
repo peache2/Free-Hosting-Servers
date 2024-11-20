@@ -17,6 +17,8 @@ Es una pagina web que nos permite de una forma sencilla y rapida gracias a sus c
 
 ## Wix
 En este servicio podemos crear de manera sencilla usando Inteligencia artificial nuestra propia pagina web, la cual posteriormente podemos modificar, iniciamos la creación de la cuenta con google
-![](wixx.png)
-![](wixxx.png)
+![](inicio.png)
+Despues nos preguntara de que ira nuestra empresa, y tambien nos pedira el nombre
+![](elegir.png)
+![](nombre.png)
 ![](wix.png)
