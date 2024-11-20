@@ -1,12 +1,5 @@
 # 5 Free-Hosting-Servers
 
-#### [*Hubspot*](https://www.hubspot.es/)
-#### [*Infomaniak*](https://www.infomaniak.com/es)
-#### [*Hostinger*](https://www.hostinger.es/)
-#### [*Awardspace*](https://www.awardspace.com/)
-#### [*Byet Internet Services*](https://byet.host/)
-
-
 
 
 | Proveïdor              | Espai d'emmagatzematge | Ample de banda       | Dominis i Subdominis   | Certificat SSL | Publicitat | Altres Característiques         |
