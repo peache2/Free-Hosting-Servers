@@ -16,4 +16,7 @@ Es una pagina web que nos permite de una forma sencilla y rapida gracias a sus c
 ![](Hubspot.png)
 
 ## Wix
+En este servicio podemos crear de manera sencilla usando Inteligencia artificial nuestra propia pagina web, la cual posteriormente podemos modificar, iniciamos la creación de la cuenta con google
 ![](wixx.png)
+![](wixxx.png)
+![](wix.png)
