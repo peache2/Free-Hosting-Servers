@@ -14,7 +14,8 @@
 ## Hubspot
 Es una pagina web que nos permite de una forma sencilla y rapida gracias a sus cientos de plantilas a poder crear nuestra web para poder atraer a los clientes a nuestro servicio
 ![](Hubspot.png)
-
+Podemos crear paneles gracias a su servicio de estadisticas para poder gestionar la empresa con las herramientas que tienen implementadas en la web
+![](panel.png) 
 ## Wix
 En este servicio podemos crear de manera sencilla usando Inteligencia artificial nuestra propia pagina web, la cual posteriormente podemos modificar, iniciamos la creación de la cuenta con google
 ![](inicio.png)
