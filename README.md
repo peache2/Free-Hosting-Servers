@@ -10,12 +10,17 @@
 | [*Awardspace*](https://www.awardspace.com/)          | 2 GB                  | 5 GB                | Subdominis inclosos    | Sí             | No         | Constructor web, suport bàsic    |
 | [*Byet Internet Services*](https://byet.host/)| 5 GB                  | Il·limitat          | Subdominis inclosos                    | Opcional       | Sí         | Hosting gratuït amb restriccions |
 
-###### En el servicio de Infomaniak debemos de pagar 5€ euros mensuales para poder tener el dominio .es o .com, todo esto depende del pais en el cual se haga el registro 
+
 ## Hubspot
 Es una pagina web que nos permite de una forma sencilla y rapida gracias a sus cientos de plantilas a poder crear nuestra web para poder atraer a los clientes a nuestro servicio
 ![](Hubspot.png)
 Podemos crear paneles gracias a su servicio de estadisticas para poder gestionar la empresa con las herramientas que tienen implementadas en la web
 ![](panel.png) 
+
+## Infomaniak
+###### En el servicio de Infomaniak debemos de pagar 5€ euros mensuales para poder tener el dominio .es o .com, todo esto depende del pais en el cual se haga el registro 
+![](infomaniak.png)
+
 ## Wix
 En este servicio podemos crear de manera sencilla usando Inteligencia artificial nuestra propia pagina web, la cual posteriormente podemos modificar, iniciamos la creación de la cuenta con google
 ![](inicio.png)
