@@ -12,7 +12,7 @@
 
 
 ## Hubspot
-Es una pagina web que nos permite de una forma sencilla y rapida gracias a sus cientos de plantilas a poder crear nuestra web para poder atraer a los clientes a nuestro servicio
+Es una pagina web que nos permite de una forma sencilla y rapida gracias a sus cientos de plantilas para poder crear nuestra web para poder atraer a los clientes a nuestro servicio
 ![](Hubspot.png)
 Podemos crear paneles gracias a su servicio de estadisticas para poder gestionar la empresa con las herramientas que tienen implementadas en la web
 ![](panel.png) 
@@ -24,10 +24,10 @@ Podemos crear paneles gracias a su servicio de estadisticas para poder gestionar
 ## Wix
 En este servicio podemos crear de manera sencilla usando Inteligencia artificial nuestra propia pagina web, la cual posteriormente podemos modificar, iniciamos la creación de la cuenta con google
 ![](inicio.png)
-Despues nos preguntara de que ira nuestra empresa, y tambien nos pedira el nombre
+Despues nos preguntará de que ira nuestra empresa, y tambien nos pedira el nombre
 ![](elegir.png)
 ![](nombre.png)
-Elegimos la opción con inteligencia artificial y gracias a los datros que le hemos dado nos creara una pagina web automaticamente
+Elegimos la opción con inteligencia artificial y gracias a los datos que le hemos dado nos creara una pagina web automaticamente
 ![](Wix(10).png)
 
 ## Award Space
