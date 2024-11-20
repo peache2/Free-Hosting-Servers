@@ -25,3 +25,9 @@ Elegimos la opción con inteligencia artificial y gracias a los datros que le he
 ![](Wix(10).png)
 
 ## Award Space
+Con este servicio podemos almacenar datos pequeños de forma gratuita o de pago, en este caso el servicio gratis en el que cada archivo tiene un maximo de tamaño de 15 MiB y de 1Gb de almacenamiento.
+
+Primero nos pide iniciar sesion o registrar
+![](aawarregis.png)
+Despues de esto simplemente podemos almacenar los archivos de manera sencilla y rapida
+![](inicioa.png)
