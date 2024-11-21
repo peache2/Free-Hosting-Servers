@@ -19,6 +19,7 @@ Podemos crear paneles gracias a su servicio de estadisticas para poder gestionar
 
 ## Infomaniak
 ###### En el servicio de Infomaniak debemos de pagar 5€ euros mensuales para poder tener el dominio .es o .com, todo esto depende del pais en el cual se haga el registro 
+Sirve para poder crear un dominio para nuestra pagina web.
 ![](infomaniak.png)
 
 ## Wix
